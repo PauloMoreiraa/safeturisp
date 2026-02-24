@@ -2,6 +2,8 @@
 
 SafeTuriSP é um aplicativo Vue que exibe um mapa interativo de pontos turísticos e áreas de risco na cidade de São Paulo usando a API do ArcGIS.
 
+Acesse agora: https://safeturisp.vercel.app/
+
 ## Pré-requisitos
 
 Antes de rodar o projeto, certifique-se de ter instalado:
