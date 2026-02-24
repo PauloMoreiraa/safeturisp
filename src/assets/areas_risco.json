@@ -1,0 +1,48 @@
+{
+  "areas_risco_sp": [
+    {
+      "regiao": "Downtown (Sé & República)",
+      "tipo_risco": "Theft of cell phones and personal items",
+      "poligono_simplificado": [
+        [-46.6372, -23.5385],
+        [-46.6260, -23.5480],
+        [-46.6330, -23.5560],
+        [-46.6450, -23.5430],
+        [-46.6372, -23.5385]
+      ]
+    },
+    {
+      "regiao": "South Zone (Capão Redondo / Campo Limpo)",
+      "tipo_risco": "Robbery of vehicles and pedestrians",
+      "poligono_simplificado": [
+        [-46.7580, -23.6450],
+        [-46.7450, -23.6600],
+        [-46.7850, -23.6850],
+        [-46.8000, -23.6750],
+        [-46.7580, -23.6450]
+      ]
+    },
+    {
+      "regiao": "West Zone (Pinheiros / Itaim Bibi)",
+      "tipo_risco": "Theft of high-value cell phones and bank snatchings",
+      "poligono_simplificado": [
+        [-46.6850, -23.5550],
+        [-46.6600, -23.5800],
+        [-46.6750, -23.5950],
+        [-46.7100, -23.5700],
+        [-46.6850, -23.5550]  
+      ]
+    },
+    {
+      "regiao": "East Zone (São Mateus / Itaquera)",
+      "tipo_risco": "General robberies and scattered criminal spots",
+      "poligono_simplificado": [
+        [-46.4700, -23.5250],
+        [-46.4300, -23.5850],
+        [-46.4850, -23.6150],
+        [-46.5100, -23.5500],
+        [-46.4700, -23.5250] 
+      ]
+    }
+  ]
+}

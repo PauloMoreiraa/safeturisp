@@ -1,0 +1,52 @@
+[
+  {
+    "name": "MASP",
+    "coords": [-46.646, -23.561],
+    "description": "São Paulo Museum of Art, featuring European and Brazilian art."
+  },
+  {
+    "name": "Ibirapuera Park",
+    "coords": [-46.655, -23.587],
+    "description": "Urban park with green areas, lakes, museums and outdoor leisure."
+  },
+  {
+    "name": "Pinacoteca",
+    "coords": [-46.634, -23.532],
+    "description": "Art museum with historical Brazilian collections and temporary exhibitions."
+  },
+  {
+    "name": "Sé Cathedral",
+    "coords": [-46.633, -23.5505],
+    "description": "Main cathedral of São Paulo, example of neo-gothic architecture."
+  },
+  {
+    "name": "Republic Square",
+    "coords": [-46.635, -23.548],
+    "description": "Central square known for artisan fairs and cultural events."
+  },
+  {
+    "name": "Football Museum",
+    "coords": [-46.655, -23.545],
+    "description": "Interactive museum at Pacaembu Stadium, celebrating Brazilian football history."
+  },
+  {
+    "name": "Municipal Market",
+    "coords": [-46.632, -23.541],
+    "description": "Famous market for fresh produce, exotic fruits, and the traditional mortadella sandwich."
+  },
+  {
+    "name": "Paulista Avenue",
+    "coords": [-46.656, -23.561],
+    "description": "Main avenue of the city, full of museums, cultural centers, and skyscrapers."
+  },
+  {
+    "name": "Modern Art Museum (MAM)",
+    "coords": [-46.654, -23.586],
+    "description": "São Paulo Modern Art Museum with works by Brazilian and international artists."
+  },
+  {
+    "name": "Liberdade",
+    "coords": [-46.633, -23.557],
+    "description": "Neighborhood with strong Japanese influence, oriental shops and cultural fairs."
+  }
+]
